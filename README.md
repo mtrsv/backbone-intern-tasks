@@ -84,4 +84,4 @@
 - Два файла тестов (для вью и коллекции) 
 - Подключенный karma и jasmine
 ##### Подсказки:
- - Разобраться с методами фреймворка для тестов: beforeEach, afterEach, spyOn, expect
+- Разобраться с методами фреймворка для тестов: beforeEach, afterEach, spyOn, expect
